@@ -1,0 +1,11 @@
+E:\GIT\Perso\Quiz\Foundation\Foundation.Utilities.Command\bin\Debug\netstandard1.6\Foundation.Application.deps.json
+E:\GIT\Perso\Quiz\Foundation\Foundation.Utilities.Command\bin\Debug\netstandard1.6\Foundation.Application.dll
+E:\GIT\Perso\Quiz\Foundation\Foundation.Utilities.Command\bin\Debug\netstandard1.6\Foundation.Application.pdb
+E:\GIT\Perso\Quiz\Foundation\Foundation.Utilities.Command\bin\Debug\netstandard1.6\Foundation.Domain.dll
+E:\GIT\Perso\Quiz\Foundation\Foundation.Utilities.Command\bin\Debug\netstandard1.6\Foundation.Utilities.dll
+E:\GIT\Perso\Quiz\Foundation\Foundation.Utilities.Command\bin\Debug\netstandard1.6\Foundation.Domain.pdb
+E:\GIT\Perso\Quiz\Foundation\Foundation.Utilities.Command\bin\Debug\netstandard1.6\Foundation.Utilities.pdb
+E:\GIT\Perso\Quiz\Foundation\Foundation.Utilities.Command\obj\Debug\netstandard1.6\Foundation.Application.csprojResolveAssemblyReference.cache
+E:\GIT\Perso\Quiz\Foundation\Foundation.Utilities.Command\obj\Debug\netstandard1.6\Foundation.Application.AssemblyInfo.cs
+E:\GIT\Perso\Quiz\Foundation\Foundation.Utilities.Command\obj\Debug\netstandard1.6\Foundation.Application.dll
+E:\GIT\Perso\Quiz\Foundation\Foundation.Utilities.Command\obj\Debug\netstandard1.6\Foundation.Application.pdb

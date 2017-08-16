@@ -1,0 +1,9 @@
+E:\GIT\Perso\Quiz\Foundation\Foundation.Domain\bin\Debug\netstandard1.6\Foundation.Domain.deps.json
+E:\GIT\Perso\Quiz\Foundation\Foundation.Domain\bin\Debug\netstandard1.6\Foundation.Domain.dll
+E:\GIT\Perso\Quiz\Foundation\Foundation.Domain\bin\Debug\netstandard1.6\Foundation.Domain.pdb
+E:\GIT\Perso\Quiz\Foundation\Foundation.Domain\bin\Debug\netstandard1.6\Foundation.Utilities.dll
+E:\GIT\Perso\Quiz\Foundation\Foundation.Domain\bin\Debug\netstandard1.6\Foundation.Utilities.pdb
+E:\GIT\Perso\Quiz\Foundation\Foundation.Domain\obj\Debug\netstandard1.6\Foundation.Domain.csprojResolveAssemblyReference.cache
+E:\GIT\Perso\Quiz\Foundation\Foundation.Domain\obj\Debug\netstandard1.6\Foundation.Domain.AssemblyInfo.cs
+E:\GIT\Perso\Quiz\Foundation\Foundation.Domain\obj\Debug\netstandard1.6\Foundation.Domain.dll
+E:\GIT\Perso\Quiz\Foundation\Foundation.Domain\obj\Debug\netstandard1.6\Foundation.Domain.pdb

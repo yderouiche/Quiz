@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.6</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Foundation\Foundation.DataAccess.EF\Foundation.DataAccess.EF.csproj" />
+    <ProjectReference Include="..\..\Foundation\Foundation.Utilities.Command\Foundation.Application.csproj" />
+    <ProjectReference Include="..\..\Foundation\Foundation.Utilities\Foundation.Utilities.csproj" />
+    <ProjectReference Include="..\Quiz.Database\Quiz.Database.csproj" />
+    <ProjectReference Include="..\Quiz.Domain\Quiz.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

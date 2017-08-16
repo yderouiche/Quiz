@@ -1,0 +1,11 @@
+E:\GIT\Perso\Quiz\Foundation\Foundation.DataAccess.EF\bin\Debug\netstandard1.6\Foundation.DataAccess.EF.deps.json
+E:\GIT\Perso\Quiz\Foundation\Foundation.DataAccess.EF\bin\Debug\netstandard1.6\Foundation.DataAccess.EF.dll
+E:\GIT\Perso\Quiz\Foundation\Foundation.DataAccess.EF\bin\Debug\netstandard1.6\Foundation.DataAccess.EF.pdb
+E:\GIT\Perso\Quiz\Foundation\Foundation.DataAccess.EF\bin\Debug\netstandard1.6\Foundation.Domain.dll
+E:\GIT\Perso\Quiz\Foundation\Foundation.DataAccess.EF\bin\Debug\netstandard1.6\Foundation.Utilities.dll
+E:\GIT\Perso\Quiz\Foundation\Foundation.DataAccess.EF\bin\Debug\netstandard1.6\Foundation.Domain.pdb
+E:\GIT\Perso\Quiz\Foundation\Foundation.DataAccess.EF\bin\Debug\netstandard1.6\Foundation.Utilities.pdb
+E:\GIT\Perso\Quiz\Foundation\Foundation.DataAccess.EF\obj\Debug\netstandard1.6\Foundation.DataAccess.EF.csprojResolveAssemblyReference.cache
+E:\GIT\Perso\Quiz\Foundation\Foundation.DataAccess.EF\obj\Debug\netstandard1.6\Foundation.DataAccess.EF.AssemblyInfo.cs
+E:\GIT\Perso\Quiz\Foundation\Foundation.DataAccess.EF\obj\Debug\netstandard1.6\Foundation.DataAccess.EF.dll
+E:\GIT\Perso\Quiz\Foundation\Foundation.DataAccess.EF\obj\Debug\netstandard1.6\Foundation.DataAccess.EF.pdb

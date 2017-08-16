@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foundation.DataAccess.MangoDB", "Foundation.DataAccess.MangoDB\Foundation.DataAccess.MangoDB.csproj", "{D1FECD73-8389-441F-9BA7-A76D169694DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foundation.DataAccess.EF", "Foundation.DataAccess.EF\Foundation.DataAccess.EF.csproj", "{5BB3C71B-5E6A-4572-A749-6EFEEBB23B26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foundation.Utilities", "Foundation.Utilities\Foundation.Utilities.csproj", "{67A111D7-9EDC-4EE6-833E-FB65CC048337}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foundation.Domain", "Foundation.Domain\Foundation.Domain.csproj", "{BBDA7136-C252-4016-971E-69CA62C3F3AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1FECD73-8389-441F-9BA7-A76D169694DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FECD73-8389-441F-9BA7-A76D169694DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FECD73-8389-441F-9BA7-A76D169694DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FECD73-8389-441F-9BA7-A76D169694DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB3C71B-5E6A-4572-A749-6EFEEBB23B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB3C71B-5E6A-4572-A749-6EFEEBB23B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB3C71B-5E6A-4572-A749-6EFEEBB23B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB3C71B-5E6A-4572-A749-6EFEEBB23B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A111D7-9EDC-4EE6-833E-FB65CC048337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A111D7-9EDC-4EE6-833E-FB65CC048337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A111D7-9EDC-4EE6-833E-FB65CC048337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A111D7-9EDC-4EE6-833E-FB65CC048337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDA7136-C252-4016-971E-69CA62C3F3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDA7136-C252-4016-971E-69CA62C3F3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDA7136-C252-4016-971E-69CA62C3F3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDA7136-C252-4016-971E-69CA62C3F3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
