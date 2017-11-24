@@ -5,6 +5,7 @@ using Quiz.Domain.Entities;
 
 namespace Quiz.Domain.Specfication
 {
+	
     public class QuizDurationSpecification : Specification<QuizInstance>
     {
         public override Expression<Func<QuizInstance, bool>> Expression => (q => q.Duration>0);
