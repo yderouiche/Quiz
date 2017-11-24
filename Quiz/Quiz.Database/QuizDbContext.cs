@@ -9,7 +9,6 @@ namespace Quiz.Database
         public QuizDbContext(DbContextOptions<QuizDbContext> options)
            : this(options, false)
         {
-
         }
 
         public QuizDbContext(DbContextOptions<QuizDbContext> options, bool isEnsureDBCreated)
