@@ -29,8 +29,11 @@ namespace Quiz.Database
 		
         public DbSet<QuizInstance> QuizInstances { get; set; }
         public DbSet<QuizRun> QuizRuns { get; set; }
-        public DbSet<QuizRun> QuizTemplates { get; set; }
-        public DbSet<QuizRun> QuizAnswers { get; set; }
+        
+		public DbSet<QuizRun> QuizTemplates { get; set; }
+        
+		public DbSet<QuizRun> QuizAnswers { get; set; }
+		
         public DbSet<QuizRun> GradingSystems { get; set; }
     }
 }
