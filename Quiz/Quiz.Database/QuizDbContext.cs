@@ -24,9 +24,7 @@ namespace Quiz.Database
         }
 
         public DbSet<Question> Questions { get; set; }
-		
         public DbSet<Answer> Answers { get; set; }
-		
         public DbSet<QuizInstance> QuizInstances { get; set; }
         public DbSet<QuizRun> QuizRuns { get; set; }
         
